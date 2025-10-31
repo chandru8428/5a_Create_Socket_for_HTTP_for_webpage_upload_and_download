@@ -59,7 +59,7 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-<img width="1261" height="708" alt="image" src="https://github.com/user-attachments/assets/b93f34e0-c8f2-4460-acde-537cfc0353f7" />
+<img width="1573" height="843" alt="image" src="https://github.com/user-attachments/assets/e7d86756-0ffa-4786-8e5a-ae4b4fb56d78" />
 
 
 
